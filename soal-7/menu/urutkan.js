@@ -1,0 +1,1 @@
+export const proses = (daftarHarga) => daftarHarga.sort((a, b) => b - a)

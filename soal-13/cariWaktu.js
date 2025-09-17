@@ -1,0 +1,1 @@
+export { cekSlot as cariWaktu } from './cekSlot.js'

@@ -1,0 +1,1 @@
+export const cekJadwal = (jadwal, lapangan) => jadwal.waktu >= lapangan.waktu

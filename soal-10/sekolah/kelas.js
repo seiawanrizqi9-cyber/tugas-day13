@@ -1,0 +1,1 @@
+export { ubahStatus as absen } from '../absensi/index.js'

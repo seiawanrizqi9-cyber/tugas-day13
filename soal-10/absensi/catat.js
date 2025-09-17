@@ -1,0 +1,1 @@
+export const ubahStatus = () => ({ status: "hadir", waktu: "08.00"})

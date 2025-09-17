@@ -1,0 +1,1 @@
+export const elektronik = (daftarBarang, genre) => daftarBarang.find(f => f.genre === genre)
